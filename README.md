@@ -7,7 +7,7 @@ Aspiring Software Developer
 Currently working on improving my skills to become a better developer
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [this page](http://https://alanantony24.github.io/portfolio/)
+* 🖥️  See my portfolio at [this page](https://alanantony24.github.io/portfolio/)
 * ✉️  You can contact me at [alanantony050@gmail.com](mailto:alanantony050@gmail.com)
 * 🧠  I'm learning DSA and Frameworks for Web Dev
 
